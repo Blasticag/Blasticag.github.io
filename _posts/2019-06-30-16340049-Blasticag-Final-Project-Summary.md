@@ -1,6 +1,6 @@
 ---
 layout:     post   				    # 使用的布局（不需要改）
-title:      16340049-Blasticag-Final-Project				# 标题 
+title:      16340049-Blasticag-Final-Project-Summary				# 标题 
 subtitle:    #副标题
 date:       2019-06-30				# 时间
 author:     BY Blasticag				# 作者
