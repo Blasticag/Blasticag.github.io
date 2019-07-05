@@ -44,7 +44,7 @@ tags:								#标签
 
 ### 个人GITHUB贡献
 
-![贡献](https://github.com/Blasticag/Blasticag.github.io/blob/master/img/%E8%B4%A1%E7%8C%AE.PNG)
+![贡献](https://raw.githubusercontent.com/Blasticag/Blasticag.github.io/master/img/%E8%B4%A1%E7%8C%AE.PNG)
 
 ### 个人主要工作清单
 
